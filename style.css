@@ -19,7 +19,7 @@ h1{
     color: black;
 }
 body{
-    background-image: url(download\ \(3\).jpg);
+    background-image: url(bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
